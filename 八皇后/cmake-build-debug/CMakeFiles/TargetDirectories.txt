@@ -1,0 +1,3 @@
+/Users/liziwen/Desktop/八皇后/cmake-build-debug/CMakeFiles/untitled14.dir
+/Users/liziwen/Desktop/八皇后/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liziwen/Desktop/八皇后/cmake-build-debug/CMakeFiles/rebuild_cache.dir
